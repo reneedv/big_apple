@@ -1,7 +1,7 @@
 require 'helper'
 
 class TestBigApple < Test::Unit::TestCase
-  should "probably rename this file and start testing for real" do
-    flunk "hey buddy, you should probably rename this file and start testing for real"
+  should "insert fuck as every other word" do
+    assert_equal("good morning".as_new_yorker, "good fuck morning")
   end
 end
