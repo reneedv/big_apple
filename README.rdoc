@@ -1,6 +1,6 @@
 = big_apple
 
-Description goes here.
+Makes strings sound like a true New Yorker spoke them!
 
 == Contributing to big_apple
  
