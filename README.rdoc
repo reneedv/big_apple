@@ -2,6 +2,8 @@
 
 Makes strings sound like a true New Yorker spoke them!
 
+{<img src="https://secure.travis-ci.org/reneedv/big_apple.png" />}[http://travis-ci.org/reneedv/big_apple]
+
 == Contributing to big_apple
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
